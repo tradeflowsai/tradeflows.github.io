@@ -18,7 +18,7 @@ html, body {
 
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    background-color: var(--background-primary);
+    background: radial-gradient(circle, #000000 0%, #1a1a1a 100%);
     color: var(--text-primary);
     line-height: 1.6;
 }
